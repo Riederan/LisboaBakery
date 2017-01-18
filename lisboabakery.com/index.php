@@ -9,7 +9,8 @@
 				document.getElementById("homeNav").className = "active";
 			</script>
 			<div class="page-header">
-				<h1>Index <small>Best Portuguese Chicken in Town!</header></h1>
+				<img class="img-responsive" src="lisboaLogo.png" alt="Lisboa B&G Logo"/>
+				<h1>Home <small>Best Portuguese Chicken in Town!</header></h1>
 			</div>
 		<?php include('footer.php'); ?>
 	</body>

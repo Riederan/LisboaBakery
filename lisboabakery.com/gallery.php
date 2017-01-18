@@ -12,7 +12,7 @@
 				<h1>Gallery <small>Best Portuguese Chicken in Town!</header></h1>
 			</div>
 			
-			<body style="padding:0px; margin:0px; background-color:#fff;font-family:'Open Sans',sans-serif,arial,helvetica,verdana">
+			<body style="padding:0px; margin:0px; font-family:'Open Sans',sans-serif,arial,helvetica,verdana">
 
     <!-- #region Jssor Slider Begin -->
     <!-- Generator: Jssor Slider Maker -->
