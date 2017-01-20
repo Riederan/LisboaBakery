@@ -9,12 +9,16 @@
 .jssora05l.jssora05lds      (disabled)
 .jssora05r.jssora05rds      (disabled)
 */
+.body{
+	background-color: #000;
+}
 .jssora05l, .jssora05r {
 	display: block;
 	position: absolute;
 	/* size of arrow element */
 	width: 40px;
 	height: 40px;
+	margin: auto;
 	cursor: pointer;
 	background: url('../images/gallery/controls/arrows.png') no-repeat;
 	overflow: hidden;

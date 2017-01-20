@@ -1,0 +1,34 @@
+
+.inner-menu .menu-list {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 12px 15px;
+    background: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+}
+
+.inner-menu .menu-list .menu-list-item {
+    margin-top: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed #ddd;
+}
+
+.inner-menu .menu-list h3 {
+    margin: 0;
+    padding-bottom: 6px;
+    font-size: 30px;
+    color: #777;
+    border-bottom: 4px double #eee;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Droid Serif', serif;
+    font-weight: 400;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
