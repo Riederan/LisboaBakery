@@ -1,4 +1,5 @@
 <header>
+	<img class="img-responsive m-x-auto d-block" src="lisboaLogo.png" alt="Lisboa B&G Logo" /></br>
 		<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -11,7 +12,6 @@
 					</button>
 					<a class="navbar-brand" href="#">Lisboa Bakery & Grill</a>
 				</div>
-
 			<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="navbar-collapse">
 					<ul class="nav navbar-nav">
@@ -31,4 +31,4 @@
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
 		</nav>
-	</header>
+</header>

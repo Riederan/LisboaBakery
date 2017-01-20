@@ -4,23 +4,33 @@
     margin: 0 auto;
     margin-top: 30px;
     padding: 12px 15px;
-    background: #fff;
-    border: 1px solid #eaeaea;
-    border-radius: 4px;
+    background: #000;
 }
 
 .inner-menu .menu-list .menu-list-item {
     margin-top: 15px;
     padding-bottom: 10px;
-    border-bottom: 1px dashed #ddd;
+    border-bottom: 1px dashed #ffff00;
 }
 
 .inner-menu .menu-list h3 {
     margin: 0;
     padding-bottom: 6px;
     font-size: 30px;
-    color: #777;
-    border-bottom: 4px double #eee;
+    color: #cc0000;
+    border-bottom: 4px double #cc0000;
+}
+
+.inner-menu .menu-list .menu-list-item h4 {
+    margin: 0;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.inner-menu .menu-list .menu-list-item span.price {
+    font-size: 15px;
+    line-height: 23px;
+    font-weight: 700;
 }
 
 h1, h2, h3, h4, h5, h6 {

@@ -13,7 +13,6 @@
 				document.getElementById("menuNav").className = "active";
 			</script>
 			<div class="page-header">
-			<img class="img-responsive" src="lisboaLogo.png" alt="Lisboa B&G Logo"/>
 				<h1>Dining Menu <small>Best Portuguese Chicken in Town!</header></h1>
 			</div>
 <div class="inner-menu">
@@ -21,8 +20,8 @@
 		<div class="row">
 			<div class="col-md-4 col-sm-6">
 				<div class="menu-list">
-					<h3 style="color:#cc0000">Charcoal BBQ Grilled Portuguese Chicken</br> Frango no Churrasco</h3>
-					<img class="img-responsive" src="img/menu/menu1.jpg" alt="">
+					<h3>Charcoal BBQ Grilled Portuguese Chicken</br> Frango no Churrasco</h3>
+					<img class="img-responsive" src="images/IMG_9615.jpg" alt="">
 					<div class="menu-list-item">
 						<h4 class="pull-left">Whole</h4>
 						<span class="price pull-right">$12.99</span>
