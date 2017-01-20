@@ -13,6 +13,14 @@
     border-bottom: 1px dashed #C30;
 }
 
+.menu-list h3 {
+    margin: 0;
+    padding-bottom: 6px;
+    font-size: 30px;
+    color: #777;
+    border-bottom: 4px double #FC0;
+}
+
 .inner-menu .menu-list h3 {
     margin: 0;
     padding-bottom: 6px;

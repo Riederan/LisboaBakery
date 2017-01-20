@@ -1093,7 +1093,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #361; /*or #333;*/
+  color: #776; /*or #333;*/
   background-color: #080808;
 }
 input,
@@ -2283,7 +2283,7 @@ th {
   padding: 8px;
   line-height: 1.42857143;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+  border-bottom: 1px dashed #C30;
 }
 .table > thead > tr > th {
   vertical-align: bottom;

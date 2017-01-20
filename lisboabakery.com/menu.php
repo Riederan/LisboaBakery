@@ -5,7 +5,6 @@
 <html lang="en">
 	<head>
 		<?php include('header.php'); ?>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body onload="CheckCookie()">	
 		<?php include('banner.php'); ?>
@@ -254,7 +253,7 @@
 						<div class="clearfix"></div>
 					</div>
 					<div class="menu-list-item">
-						<h4 class="pull-left">Cebolada/Sautéed onions and peppers</h4>
+						<h4 class="pull-left">Cebolada</br>Sautéed onions and peppers</h4>
 						<span class="price pull-right">$1</span>
 						<div class="clearfix"></div>
 					</div>
@@ -264,7 +263,7 @@
 						<div class="clearfix"></div>
 					</div>
 					<div class="menu-list-item border-zero">
-						<h4 class="pull-left">Pork, Chicken, or Veal Breaded Cutlets</h4>
+						<h4 class="pull-left">Pork, Chicken, or Veal</br>Breaded Cutlets</h4>
 						<span class="price pull-right">$6</span>
 						<div class="clearfix"></div>
 					</div>
@@ -313,47 +312,130 @@
 					**Add Chicken Breast to any salad $3.99/ea.</small>
 				</div>
 			</div>
-			<!--<div class="col-md-4 col-sm-6">
+		</div>
+	</div>
+</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-6"><!--Side Orders-->
 				<div class="menu-list">
-					<h3>Charcoal</br>Frango</h3>
-					<img class="img-responsive" src="img/menu/menu1.jpg" alt="">
-					<div class="menu-list-item">
-						<h4 class="pull-left">Whole</h4>
-						<span class="price pull-right">$12.99</span>
-						<div class="clearfix"></div>
+				<h3>Side Orders</h3>                                                                                     
+					<div class="table-responsive"><!--Side Orders-->
+						<table class="table">
+							<thead>
+								<tr>
+									<td></td>
+									<td>Small (1-2)</td>
+									<td>Medium (3-4)</td>
+									<td>Large (4-6)</td>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><h4>Roasted Potatoes</h4></td>
+									<td>$6.99</td>
+									<td>$8.99</td>
+									<td>$10.49</td>
+								</tr>
+								<tr>
+									<td><h4>Vegetables</h4></td>
+									<td>$6.99</td>
+									<td>$8.99</td>
+									<td>$10.49</td>
+								</tr>
+								<tr>
+									<td><h4>Rice</h4></td>
+									<td>$5.99</td>
+									<td>$7.99</td>
+									<td>$9.49</td>
+								</tr>
+								<tr>
+									<td><h4>Onion Rings</h4></td>
+									<td>$5.99</td>
+									<td>$7.99</td>
+									<td>$9.49</td>
+								</tr>
+								<tr>
+									<td><h4>Onion Rings</h4></td>
+									<td>$5.99</td>
+									<td>$7.99</td>
+									<td>$9.49</td>
+								</tr>
+							</tbody>
+						</table>
 					</div>
-					<div class="menu-list-item">
-						<h4 class="pull-left">Half</h4>
-						<span class="price pull-right">$49</span>
-						<div class="clearfix"></div>
-					</div>
-					<div class="menu-list-item">
-						<h4 class="pull-left">Dark</h4>
-						<span class="price pull-right">$39</span>
-						<div class="clearfix"></div>
-					</div>
-					<div class="menu-list-item">
-						<h4 class="pull-left">White</h4>
-						<span class="price pull-right">$22</span>
-						<div class="clearfix"></div>
-					</div>
-					<div class="menu-list-item border-zero">
-						<h4 class="pull-left">Dinner</h4>
-						<span class="price pull-right">$15</span>
-						<div class="clearfix"></div>
-					</div>
-					<div class="menu-list-item border-zero">
-						<h4 class="pull-left">Dinner</h4>
-						<span class="price pull-right">$15</span>
-						<div class="clearfix"></div>
-					</div>
-					<div class="menu-list-item border-zero">
-						<h4 class="pull-left">Dinner</h4>
-						<span class="price pull-right">$15</span>
-						<div class="clearfix"></div>
-					</div>
-				</div>-->
+				</div>
 			</div>
+			<div class="col-md-6 col-sm-6"><!--Deli Platters-->
+			<div class="menu-list">
+				<h3>Deli Platters</h3>                                                                                     
+				<div class="table-responsive"><!--Deli Platters-->
+					<table class="table">
+						<thead>
+							<tr>
+								<td></td>
+								<td>Small (5-12)</td>
+								<td>Medium (12-20)</td>
+								<td>Large (20-30)</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><h4>Cheese/Queijo</h4></td>
+								<td>$40</td>
+								<td>$45</td>
+								<td>$55</td>
+							</tr>
+							<tr>
+								<td><h4>Fruit/Fruta</h4></td>
+								<td>$37</td>
+								<td>$47</td>
+								<td>$57</td>
+							</tr>
+							<tr>
+								<td><h4>Vegetables/Vegetais</h4></td>
+								<td>$32</td>
+								<td>$42</td>
+								<td>$52</td>
+							</tr>
+							<tr>
+								<td><h4>Deli</h4></td>
+								<td>$37</td>
+								<td>$42</td>
+								<td>$52</td>
+							</tr>
+							<tr>
+								<td><h4>Sandwich/Sande</h4></td>
+								<td>$19.99</td>
+								<td>$39.99</td>
+								<td>$49.99</td>
+							</tr>
+							<tr>
+								<td><h4>Shrimp/Camarão</h4></td>
+								<td>$35.99</td>
+								<td>(41-50</td>
+								<td>small shrimp)</td>
+							</tr>
+							<tr>
+								<td><h4>Portuguese Antipasto</h4></td>
+								<td>$42</td>
+								<td>$52</td>
+								<td>$62</td>
+							</tr>
+							<tr>
+								<td>
+									<small>*Variety of cheese, seasonal fruits, and vegetables.</br>
+											*Deli includes Portuguese ham, paio salami, prosciutto, and havarti cheese.</br>
+											*Sandwiches include above deli and/or chicken salad and egg salad.</br>
+											*Antipasto includes deli, marinated olives, cubed cheese, shrimp and cod cakes, and marinated peppers.
+									</small>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
 		</div>
 	</div>
 </div>
