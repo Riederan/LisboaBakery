@@ -28,8 +28,6 @@
 								<a href="https://www.instagram.com/lisboabakery/"><img src="images/footer/insta.png" alt="Instagram Link" /></a>
 								<a href="https://www.facebook.com/lisboabakery/"><img src="images/footer/fb.png" alt="Facebook Link" /></a>
 								<a href="https://www.snapchat.com/add/lisboabakery"><img src="images/footer/sc.png" alt="Snapchat Link" /></a>
-								
-								
 							</ul>
 						</li>
 					</ul>
