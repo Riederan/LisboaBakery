@@ -28,6 +28,9 @@
 				  <div class="carousel-inner" role="listbox">
 					<div class="item active">
 					  <img src="images/home/location.jpg" alt="Location">
+					  <div class="carousel-caption">
+						<h2>Our Location</h2>
+					  </div>
 					</div>
 					<div class="item">
 					<img src="images/home/bs1.jpg" alt="Charcoal Chicken">
@@ -53,7 +56,7 @@
 					<div class="item">
 					  <img src="images/home/bs4.jpg" alt="Charcoal Chicken">
 					  <div class="carousel-caption">
-						<h2>Charcoal Chicken</h2>
+						<h2>Charcoal Grilled Chicken</h2>
 					  </div>
 					</div>
 					
