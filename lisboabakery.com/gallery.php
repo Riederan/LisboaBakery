@@ -9,7 +9,7 @@
 				document.getElementById("galleryNav").className = "active";
 			</script>
 			<div class="page-header">
-				<h1>Gallery <small>Best Portuguese Chicken in Town!</header></h1>
+				<h1>Gallery <small>Food, events and memories</header></h1>
 			</div>
 			
 			<body style="padding:0px; margin:0px; font-family:'Open Sans',sans-serif,arial,helvetica,verdana">
