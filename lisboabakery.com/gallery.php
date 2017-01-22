@@ -23,7 +23,7 @@
     <script src="javascript/gallery.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="css/gallery.css">
 	
-    <div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 960px; height: 480px; overflow: hidden; visibility: hidden; background-color: #24262e;">
+    <div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 960px; height: 480px; overflow: hidden; visibility: hidden; background-color: #24262e; margin-bottom:15px">
         <!-- Loading Screen -->
         <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
             <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
@@ -39,8 +39,8 @@
                 <img data-u="thumb" src="images/gallery/thumbnails/image2.jpg" />
             </div>
             <div data-p="150.00" style="display:none;">
-                <img data-u="image" src="images/gallery/images/image3.jpg" />
-                <img data-u="thumb" src="images/gallery/thumbnails/image3.jpg" />
+                <img data-u="image" src="images/gallery/images/image14.jpg" />
+                <img data-u="thumb" src="images/gallery/thumbnails/image14.jpg" />
             </div>
             <div data-p="150.00" style="display:none;">
                 <img data-u="image" src="images/gallery/images/image4.jpg" />
@@ -51,8 +51,8 @@
                 <img data-u="thumb" src="images/gallery/thumbnails/image5.jpg" />
             </div>
             <div data-p="150.00" style="display:none;">
-                <img data-u="image" src="images/gallery/images/image6.jpg" />
-                <img data-u="thumb" src="images/gallery/thumbnails/image6.jpg" />
+                <img data-u="image" src="images/gallery/images/image13.jpg" />
+                <img data-u="thumb" src="images/gallery/thumbnails/image13.jpg" />
             </div>
             <div data-p="150.00" style="display:none;">
                 <img data-u="image" src="images/gallery/images/image7.jpg" />
@@ -78,6 +78,14 @@
             <div data-p="150.00" style="display:none;">
                 <img data-u="image" src="images/gallery/images/image12.jpg" />
                 <img data-u="thumb" src="images/gallery/thumbnails/image12.jpg" />
+            </div>
+            <div data-p="150.00" style="display:none;">
+                <img data-u="image" src="images/gallery/images/image6.jpg" />
+                <img data-u="thumb" src="images/gallery/thumbnails/image6.jpg" />
+            </div>
+            <div data-p="150.00" style="display:none;">
+                <img data-u="image" src="images/gallery/images/image3.jpg" />
+                <img data-u="thumb" src="images/gallery/thumbnails/image3.jpg" />
             </div>
         </div>
         <!-- Thumbnail Navigator -->
