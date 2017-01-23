@@ -10,7 +10,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand navbar-brand-centered" href="index.php">Lisboa Bakery & Grill</a>
+					<a class="navbar-brand navbar-brand-centered" href="index.php" style="width:205px">Lisboa Bakery & Grill</a>
 				</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="navbar-brand-centered">

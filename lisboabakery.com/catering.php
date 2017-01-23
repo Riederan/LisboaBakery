@@ -189,7 +189,7 @@
 												<td>$150</td>
 											</tr>
 											<tr>
-												<td><h4>Carne de Porco Alentejana</br>(Portuguese Pork and Clams)</h4></td>
+												<td><h4>Carne de Porco &agrave; Alentejana</br>(Portuguese Pork and Clams)</h4></td>
 												<td>N/A</td>
 												<td>$70</td>
 												<td>$100</td>
@@ -217,7 +217,7 @@
 						</div>
 					</div>
 					<div class="col-sm-4">
-						<h1>Place Your Order</h1>
+						<h1>Order Inquiry</h1>
 						<form action="php/submit.php" method="post">
 							<div class="form-group">
 								<label for="name"><h3>Full name:</h3></label>
@@ -240,11 +240,7 @@
 									<option>100-200</option>
 									<option>200+</option>
 								</select>
-							</div>
-							<div class="form-group">
-								<label for="location"><h3>Location:</h3></label>
-								<input type="text" class="form-control" id="location" required>
-							</div>							
+							</div>						
 							<div class="form-group">
 								<label for="date"><h3>Date:</h3></label>
 								<input type="date" class="form-control" id="date" required>

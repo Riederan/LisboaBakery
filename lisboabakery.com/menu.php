@@ -123,7 +123,7 @@
 						<div class="clearfix"></div>
 					</div>
 					<div class="menu-list-item">
-						<h4 class="pull-left">Fish Filét</h4>
+						<h4 class="pull-left">Fish Filét Dinner</h4>
 						<span class="price pull-right">$12.99</span>
 						<div class="clearfix"></div>
 					</div>
@@ -217,7 +217,7 @@
 						<div class="clearfix"></div>
 					</div>
 					<div class="menu-list-item">
-						<h4 class="pull-left">Chourico e batatas fritas</br>Chourico and Chips</h4>
+						<h4 class="pull-left">Chouri&ccedil;o e batatas fritas</br>Chourico and Chips</h4>
 						<span class="price pull-right">$7.99</span>
 						<div class="clearfix"></div>
 					</div>
@@ -282,7 +282,7 @@
 						<div class="clearfix"></div>
 					</div>
 					<div class="menu-list-item">
-						<h4 class="pull-left">Bacalhau/Fried Codfish</h4>
+						<h4 class="pull-left">Bacalhau Frito/Fried Codfish</h4>
 						<span class="price pull-right">$11</span>
 						<div class="clearfix"></div>
 					</div>
@@ -391,7 +391,7 @@
 								<td>$54</td>
 							</tr>
 							<tr>
-								<td><h4>Sandwich/Sande</h4></td>
+								<td><h4>Sandwich/Sandes</h4></td>
 								<td>$21.99</td>
 								<td>$41.99</td>
 								<td>$51.99</td>

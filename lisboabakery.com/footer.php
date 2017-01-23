@@ -18,11 +18,11 @@
 			<hr>
 				<p style="color: black; text-align: center">
 					<b>Mon</b>	Closed <br>
-					<b>Tue</b>	9:00 am - 8:00 pm <br>
-					<b>Wed</b>	9:00 am - 8:00 pm <br>
-					<b>Thu</b>	9:00 am - 8:00 pm <br>
-					<b>Fri</b>	9:00 am - 8:00 pm <br>
-					<b>Sat</b>	9:00 am - 8:00 pm <br>
+					<b>Tue</b>	9:00 am - 9:00 pm <br>
+					<b>Wed</b>	9:00 am - 9:00 pm <br>
+					<b>Thu</b>	9:00 am - 9:00 pm <br>
+					<b>Fri</b>	9:00 am - 9:00 pm <br>
+					<b>Sat</b>	9:00 am - 9:00 pm <br>
 					<b>Sun</b>	9:00 am - 7:00 pm <br>
 				</p>
 		</div>

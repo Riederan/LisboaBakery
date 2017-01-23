@@ -11,9 +11,9 @@
 			<div class="page-header">
 				<h1>Home <small>Best Portuguese Chicken in Town!</header></h1>
 			</div>
-				<div id="myCarousel" class="carousel slide" data-ride="carousel">
-				  <!-- Indicators -->
-				  <ol class="carousel-indicators">
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+				<!-- Indicators -->
+				<ol class="carousel-indicators">
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 					<li data-target="#myCarousel" data-slide-to="1"></li>
 					<li data-target="#myCarousel" data-slide-to="2"></li>
@@ -22,88 +22,88 @@
 					<li data-target="#myCarousel" data-slide-to="5"></li>
 					<li data-target="#myCarousel" data-slide-to="6"></li>
 					<li data-target="#myCarousel" data-slide-to="7"></li>
-				  </ol>
+				</ol>
 
-				  <!-- Wrapper for slides -->
-				  <div class="carousel-inner" role="listbox">
+				<!-- Wrapper for slides -->
+				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-					  <img src="images/home/location.jpg" alt="Location">
-					  <div class="carousel-caption">
-						<h2>Our Location</h2>
-					  </div>
+						<img src="images/home/location.jpg" alt="Location">
+						<div class="carousel-caption">
+							<h2>Our Location</h2>
+						</div>
 					</div>
 					<div class="item">
-					<img src="images/home/bs1.jpg" alt="Charcoal Chicken">
-					  <div class="carousel-caption">
-						<h2>Chicken Entrée</h2>
-					  </div>
+						<img src="images/home/bs1.jpg" alt="Charcoal Chicken">
+						<div class="carousel-caption">
+							<h2>Chicken Entrée</h2>
+						</div>
 					</div>
 					
 					<div class="item">
-					  <img src="images/home/bs2.jpg" alt="Cod Fish">
-					  <div class="carousel-caption">
-						<h2>Cod Fish</h2>
-					  </div>
+						<img src="images/home/bs2.jpg" alt="Cod Fish">
+						<div class="carousel-caption">
+							<h2>Cod Fish</h2>
+						</div>
 					</div>
 
 					<div class="item">
-					  <img src="images/home/bs3.jpg" alt="Original Breakfast w/ Sausage">
-					  <div class="carousel-caption">
-						<h2>Original Breakfast w/ Sausage</h2>
-					  </div>
+						<img src="images/home/bs3.jpg" alt="Original Breakfast w/ Sausage">
+						<div class="carousel-caption">
+							<h2>Original Breakfast w/ Sausage</h2>
+						</div>
 					</div>
 
 					<div class="item">
-					  <img src="images/home/bs4.jpg" alt="Charcoal Chicken">
-					  <div class="carousel-caption">
-						<h2>Charcoal Grilled Chicken</h2>
-					  </div>
+						<img src="images/home/bs4.jpg" alt="Charcoal Chicken">
+						<div class="carousel-caption">
+							<h2>Charcoal Grilled Chicken</h2>
+						</div>
 					</div>
 					
 					<div class="item">
-					  <img src="images/home/bs5.jpg" alt="Grilled Squid Entrée">
-					  <div class="carousel-caption">
-						<h2>Grilled Squid Entrée</h2>
-					  </div>
+						<img src="images/home/bs5.jpg" alt="Grilled Squid Entrée">
+						<div class="carousel-caption">
+							<h2>Grilled Squid Entrée</h2>
+						</div>
 					</div>
 					
 					<div class="item">
-					  <img src="images/home/bs6.jpg" alt="Cappuccino & Latte">
-					  <div class="carousel-caption">
-						<h2>Cappuccino & Latte</h2>
-					  </div>
+						<img src="images/home/bs6.jpg" alt="Cappuccino & Latte">
+						<div class="carousel-caption">
+							<h2>Cappuccino & Latte</h2>
+						</div>
 					</div>
 					
 					<div class="item">
-					  <img src="images/home/bs7.jpg" alt="Natas/Custard Tarts">
-					  <div class="carousel-caption">
-						<h2>Natas/Custard Tarts</h2>
-					  </div>
-					</div>
-				  </div>
-				</div>
-		<div class="container" >
-			<div class="col-sm-4">
-				<div class="jumbotron nopadd">
-					<div class="container">
-					<h3><b>About Us</b></h3>
-						<h3><small>
-							We offer a little piece of Portugal with Authentic Portuguese Cuisine for the whole family since 2009! 
-							When taking out or eating in at Lisboa Bakery & Grill you can expect fast, fresh and healthy home made meals.
-							<a href="#open1" class="info" data-toggle="collapse">Read more</a>
-						</small></h3>
-						<div id="open1" class="collapse">
-							<h4><small>
-							We have something for everyone; our Famous Charcoal BBQ Piri Piri Chicken, Our Daily Hot Table Ready to go lunch meals, Fresh European Breads, Pastries, Cakes, 
-							and much more! Stop by for breakfast, lunch, or dinner. Take out available
-							</small></h4>
+						<img src="images/home/bs7.jpg" alt="Natas/Custard Tarts">
+						<div class="carousel-caption">
+							<h2>Natas/Custard Tarts</h2>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4">
-				<div class="jumbotron nopadd">
-					<div class="container">
+			<div class="container" >
+				<div class="col-sm-4">
+					<div class="jumbotron nopadd">
+						<div class="container">
+							<h3><b>About Us</b></h3>
+							<h3><small>
+								We offer a little piece of Portugal with Authentic Portuguese Cuisine for the whole family since 2009! 
+								When taking out or eating in at Lisboa Bakery & Grill you can expect fast, fresh and healthy home made meals.
+								<a href="#open1" class="info" data-toggle="collapse">Read more</a>
+							</small></h3>
+							<div id="open1" class="collapse">
+								<h4><small>
+									We have something for everyone; our Famous Charcoal BBQ Piri Piri Chicken, Our Daily Hot Table Ready to go lunch meals, Fresh European Breads, Pastries, Cakes, 
+									and much more! Stop by for breakfast, lunch, or dinner. Take out available
+								</small></h4>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="jumbotron nopadd">
+						<div class="container">
 					<h2><b>“Best Portuguese Chicken in Town!!”</b></h2>
 						<h3><small>
 							No Portuguese Piri Piri Chicken recipe can be made without using Charcoal to grill it. We've been grilling it since we introduced

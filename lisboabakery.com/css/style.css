@@ -61,6 +61,11 @@ h1 small{
 body {
     font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
+	background: #000 url(../mild.png) no-repeat top center; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 .container .jumbotron, nopadd {
