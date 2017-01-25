@@ -2,6 +2,8 @@
 <html lang="en">
 	<head>
 		<?php include('header.php'); ?>
+		<title>Lisboa Bakery & Grill, online booking and catering menu</title>
+		<meta name="description" content="Lisboa Bakery & Grill, specializes in catering events of all sizes such as birthday parties, weddings, social gatherings, and many more.">
 	</head>
 	<body onload="CheckCookie()">
 		<script src="javascript/EventBooking.js" type="text/javascript"></script>

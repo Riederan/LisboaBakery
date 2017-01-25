@@ -2,6 +2,8 @@
 <html lang="en">
 	<head>
 		<?php include('header.php'); ?>
+		<title>Lisboa Bakery & Grill, Authentic Portuguese Cuisine</title>
+		<meta name="description" content="Lisboa Bakery & Grill, We offer a little piece of Portugal with Authentic Portuguese Cuisine. At Lisboa Bakery & Grill we have fast, fresh and healthy home made meals.">
 	</head>
 	<body onload="CheckCookie()">	
 		<?php include('banner.php'); ?>

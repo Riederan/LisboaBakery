@@ -2,6 +2,10 @@
 <html lang="en">
 	<head>
 		<?php include('header.php'); ?>
+		<title>Lisboa Bakery & Grill Photo Gallery</title>
+		<meta name="description" content="Our photo gallery displays some of our amazing home cooked meals,authentic portuguese food, freshly baked pastries, and our top of the line charcoal bbq!">
+		<title>Ice Cream Truck Photo Gallery, Megacone Ice Cream Truck</title>
+		<meta name="description" content="This gallery displays some of the amazing experiences our customers have with our mobile service, from birthday parties, to weddings, we do it all.">	
 	</head>
 	<body onload="CheckCookie()">	
 		<?php include('banner.php'); ?>

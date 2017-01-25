@@ -5,6 +5,8 @@
 <html lang="en">
 	<head>
 		<?php include('header.php'); ?>
+		<title>Lisboa Bakery & Grill, Authentic Portuguese Cuisine Menu</title>
+		<meta name="description" content="Lisboa Bakery & Grill, We have something for everyone; our Famous Charcoal BBQ Piri Piri Chicken, Our Daily Hot Table Ready to go lunch meals, Fresh European Breads, Pastries, Cakes, and much more!">	
 	</head>
 	<body onload="CheckCookie()">	
 		<?php include('banner.php'); ?>
