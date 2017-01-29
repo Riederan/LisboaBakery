@@ -24,7 +24,7 @@
 						<li class="dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Connect With Us
 							<span class="caret"></span></a>
-							<ul class="dropdown-menu">
+							<ul class="dropdown-menu" style="min-width:145px">
 								<a href="https://www.instagram.com/lisboabakery/"><img src="images/footer/insta.png" alt="Instagram Link" /></a>
 								<a href="https://www.facebook.com/Lisboa-Bakery-Grill-125373450817719/"><img src="images/footer/fb.png" alt="Facebook Link" /></a>
 								<a href="https://www.snapchat.com/add/lisboabakery"><img src="images/footer/sc.png" alt="Snapchat Link" /></a>

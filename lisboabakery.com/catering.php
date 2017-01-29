@@ -19,7 +19,9 @@
 			</div>
 			<div class="container" style="width:75%">
 				<div class="row">
+				<!--
 					<div class="col-sm-8">
+				-->
 						<div class="col-lg-12 col-sm-6"><!--Catering Whole-->
 							<div class="menu-list">
 								<h3>Whole</h3>                                                                                     
@@ -218,24 +220,25 @@
 							</div>
 						</div>
 					</div>
+					<!--
 					<div class="col-sm-4">
 						<h1>Order Inquiry</h1>
 						<form action="php/submit.php" method="post">
 							<div class="form-group">
 								<label for="name"><h3>Full name:</h3></label>
-								<input type="text" class="form-control" id="name" required>
+								<input type="text" class="form-control" name="name" id="name" required>
 							</div>
 							<div class="form-group">
 								<label for="email"><h3>Email address:</h3></label>
-								<input type="text" class="form-control" id="email" required>
+								<input type="text" class="form-control" name="email" id="email" required>
 							</div>
 							<div class="form-group">
 								<label for="phone"><h3>Phone number:</h3></label>
-								<input type="text" class="form-control" id="phone" required>
+								<input type="text" class="form-control" name="phone" id="phone" required>
 							</div>
 							<div class="form-group">
 								<label for="people"><h3>Number of people:</h3></label>
-								<select class="form-control" id="people" required>
+								<select class="form-control" name="people" id="people" required>
 									<option>0-25</option>
 									<option>25-50</option>
 									<option>50-100</option>
@@ -245,15 +248,15 @@
 							</div>						
 							<div class="form-group">
 								<label for="date"><h3>Date:</h3></label>
-								<input type="date" class="form-control" id="date" required>
+								<input type="date" class="form-control" name="date" id="date" required>
 							</div>
 							<div class="form-group">
 								<label for="time"><h3>Time:</h3></label>
-								<input type="time" class="form-control" id="time" required>
+								<input type="time" class="form-control" name="time" id="time" required>
 							</div>
 							<div class="form-group">
 								<label for="description"><h3>Order description:</h3></label>
-								<textarea class="form-control" rows="5" id="description"></textarea>
+								<textarea class="form-control" rows="5" name="description" id="description"></textarea>
 							</div>
 							<button type="submit" class="btn btn-primary btn-block"><h3>Submit</h3></button>
 							<p>
@@ -265,7 +268,10 @@
 							</p>
 						</form>
 					</div>
+					-->
+				<!--
 				</div>
+				-->
 			</div>
 		<?php include('footer.php'); ?>
 	</body>

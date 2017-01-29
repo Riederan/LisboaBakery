@@ -3,7 +3,7 @@
 	<head>
 		<?php include('header.php'); ?>
 	</head>
-	<body onload="CheckCookie()">
+	<body>
 		<script src="javascript/EventBooking.js" type="text/javascript"></script>
 		<?php include('banner.php'); ?>
 			<script>
